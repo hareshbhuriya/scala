@@ -30,5 +30,8 @@ hs_err_pid*
 .idea/modules.xml
 .idea/sbt.xml
 .idea/scala.iml
-.idea/vcs.xml
+.idea/
 target/generated-sources/
+
+*.iml
+target/
